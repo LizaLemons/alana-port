@@ -149,13 +149,13 @@ a:focus {
     color: #fff;
     background-image: 
     -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-    url(../img/alana_1.jpg);
+    url(../img/alana_1_HQ.jpg);
     background-image: 
     -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-    url(../img/alana_1.jpg);
+    url(../img/alana_1_HQ.jpg);
     background-image: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-    url(../img/alana_1.jpg);
+    url(../img/alana_1_HQ.jpg);
     /* Default */
     /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
     background-color: #000;
@@ -277,7 +277,7 @@ a:focus {
     color: #fff;
     background-image: 
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-    url(../img/alana_2.jpg);
+    url(../img/IMG_3765.JPG);
     /*background: url(../img/downloads-bg.jpg) no-repeat center center scroll;*/
     background-color: #000;
     -webkit-background-size: cover;
