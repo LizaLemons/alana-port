@@ -148,13 +148,13 @@ a:focus {
     text-align: center;
     color: #fff;
     background-image: 
-    -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), 
     url(../img/alana_1_HQ.jpg);
     background-image: 
-    -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), 
     url(../img/alana_1_HQ.jpg);
     background-image: 
-    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), 
     url(../img/alana_1_HQ.jpg);
     /* Default */
     /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
